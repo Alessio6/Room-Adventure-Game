@@ -1,0 +1,11 @@
+potion
+potion
+shield
+shield
+map
+map
+potion
+potion
+shield
+map
+potion

@@ -1,0 +1,3 @@
+/Users/alessiomaggio/CLionProjects/Coursework/AlessioMaggioCOMP5004CW -20221211T191454Z-001/AlessioMaggioCOMP5004CW/cmake-build-debug/CMakeFiles/textadv.dir
+/Users/alessiomaggio/CLionProjects/Coursework/AlessioMaggioCOMP5004CW -20221211T191454Z-001/AlessioMaggioCOMP5004CW/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alessiomaggio/CLionProjects/Coursework/AlessioMaggioCOMP5004CW -20221211T191454Z-001/AlessioMaggioCOMP5004CW/cmake-build-debug/CMakeFiles/rebuild_cache.dir

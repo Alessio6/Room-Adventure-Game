@@ -1,0 +1,4 @@
+sword
+shield
+map
+potion
